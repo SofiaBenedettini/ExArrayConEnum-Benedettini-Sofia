@@ -1,1 +1,10 @@
-<Solution />
+<Solution>
+  <Folder Name="/doc/" />
+  <Folder Name="/src/">
+    <Project Path="src/BlaisePascal.ExArrayConEnum-Benedettini-Sofia.Console/BlaisePascal.ExArrayConEnum-Benedettini-Sofia.Console.csproj" />
+    <Project Path="src/BlaisePascal.ExArrayConEnum-Benedettini-Sofia.Domain/BlaisePascal.ExArrayConEnum-Benedettini-Sofia.Domain.csproj" />
+  </Folder>
+  <Folder Name="/test/">
+    <Project Path="test/BlaisePascal.ExArrayConEnum-Benedettini-Sofia.Tests/BlaisePascal.ExArrayConEnum-Benedettini-Sofia.Tests.csproj" />
+  </Folder>
+</Solution>
